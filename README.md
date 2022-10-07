@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I'm Tushar Pasricha.
-Computer Science Undergrad 
-Web Developer
-I'm current doing DSA and exploring Blockchain
+- Computer Science Undergrad 
+- Web Developer
+- I'm current doing DSA and exploring Blockchain
 <!--
 **tusharpasricha/tusharpasricha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
