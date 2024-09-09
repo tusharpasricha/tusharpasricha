@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Tushar Pasricha.
-- Computer Science Undergrad 
+- Computer Science 
 - Web Developer
 - I'm current doing DSA and exploring Blockchain
 <!--
