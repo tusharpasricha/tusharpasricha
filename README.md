@@ -74,6 +74,5 @@ Docker, Git, Postman
 
 ## 🌐 Links
 
-- Portfolio: https://tusharpasricha.vercel.app  
 - LinkedIn: https://linkedin.com/in/tusharpasricha  
 - Email: tusharpasricha21@gmail.com  
